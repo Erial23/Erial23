@@ -53,5 +53,5 @@ Estoy interesado en colaborar en proyectos de código abierto y desarrollos corp
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Stats de Erick">
+  
 </div>
